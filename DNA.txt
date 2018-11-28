@@ -1,0 +1,16 @@
+	
+How does DNA sequencing work?
+Regardless of the approach to the genome as a whole, the actual process of DNA sequencing is the same. Sequencing employs a technique known as electrophoresis to separate pieces of DNA that differ in length by only one base.
+
+
+Lab with sequencing machines
+Courtesy of Celera Genomics
+In electrophoresis, DNA to be sequenced is placed at one end of a gel—a slab of a gelatin-like substance. (A major part of DNA sequencing simply comes down to making a bunch of Jell-O.) Electrodes are placed at either end of the gel and an electrical current is applied, causing the DNA molecules to move through the gel. Smaller molecules move through the gel more rapidly, so the DNA molecules become separated into different bands according to their size. The catch is that electrophoresis can only separate about 500 bases into clear bands—hence the need for chopping DNA up into small pieces in order to sequence it.
+
+Until the late 1980s, electrophoresis gels were always read by a person. Each piece of DNA was attached to a radioactive label, and an X-ray picture was made of the gel to make the positions of the DNA bands visible. Painstakingly analyzing the rows and columns of bands on the gel, a person could determine the sequence of the DNA.
+
+But this process was slow, tedious, and fraught with error. Today's large-scale sequencing projects would be impossible without automatic sequencing machines, which became commercially available in the late 1980s and have made DNA sequencing much quicker and more reliable. In one year, a person can produce a finished sequence of 20,000 to 50,000 bases; a machine can produce a rough draft of a sequence that long in just a few hours.
+
+Most automatic sequencing machines have a design based closely on the original, manual sequencing process. To run the machine, a technician pours gel into the space between two glass plates set less than half a millimeter (two-hundredths of an inch) apart. After the gel sets, DNA is loaded into each of the 96 lanes—just like the lanes on a highway or in a pool—that run the length of the 30-cm (about 1 foot) gel. As the DNA pieces move through the gel, the sequencing machine reads the order of DNA bases and stores this information in its computer memory.
+
+In some newer machines, known as capillary sequencers, DNA is run through an array of 96 gel-filled capillaries—glass tubes about the width of a human hair—rather than through a slab of gel. But just like the slab-gel machines, capillary machines read the base sequence as DNA moves through the gel.
