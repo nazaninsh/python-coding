@@ -1,6 +1,6 @@
 #!/Library/Frameworks/Python.framework/Versions/3.6/bin/python3
 
-# print the number of lines in file
+# opening the file "employee" and printing the number of lines in that file using 'for in' function
 sum=0
 with open("employee","r") as f:
 	for line in f:
