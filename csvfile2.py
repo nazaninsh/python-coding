@@ -5,7 +5,7 @@ with open("vacation.txt","r") as f:
     for line in reader:
         print(line)
 
-#skip the first row which is heather and only print the line number 2 in a list
+#skip the first row which is header and only print the line number 2 in a list
 with open("vacation.txt","r") as f:
     reader=csv.reader(f,delimiter="\t")
     next(reader)
