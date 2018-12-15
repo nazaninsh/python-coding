@@ -1,5 +1,6 @@
 #!/usr/bin/python
 #open files and read them
+#string.rstrip() removes the white space after the string
 with open("DNA.txt","r") as a:
     for line in a:
         print(line.rstrip())
