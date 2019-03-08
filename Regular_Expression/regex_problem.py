@@ -1,5 +1,4 @@
-#using regular expression for pulling out all the numbers and names from
-#the string called "exampleString"
+#using regular expression for pulling out all the numbers and names from the string called "exampleString"
 #we use re library for thsi purpose
 import re
 
