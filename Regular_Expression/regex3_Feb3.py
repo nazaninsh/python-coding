@@ -1,3 +1,4 @@
+#application of re.findall function
 #GROUP
 print("1.")
 import re
